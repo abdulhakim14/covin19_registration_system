@@ -1,4 +1,4 @@
-## COVID-19 Rigistration System in C++ 
+## COVID-19 Rigistration Management System in C++ 
 
 
 
